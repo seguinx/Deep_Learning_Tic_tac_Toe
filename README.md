@@ -35,6 +35,3 @@ The problem is treated as a multi-class classification task, where the model pre
 - `winner_moves.csv` — dataset generated from self-play
 - Jupyter Notebook — complete project implementation
 
-## Author
-
-UA 3 project.
